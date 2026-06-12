@@ -1,0 +1,376 @@
+
+(base) C:\Projects\Oncology\histosnet>conda env create -f environment.yml
+Retrieving notices: done
+Channels:
+ - anaconda
+ - conda-forge/label/cf201901
+ - bioconda
+ - conda-forge
+ - defaults
+Platform: win-64
+Collecting package metadata (repodata.json): done
+Solving environment: failed
+
+LibMambaUnsatisfiableError: Encountered problems while solving:
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - unsupported request
+  - package keras-base-2.4.3-py_0 requires tensorflow >=2.2, butd
+  - package libblas-3.8.0-16_mkl requires mkl 2020.1 216, but nod
+
+Could not solve for environment specs
+The following packages are incompatible
+├─ _tflow_select ==2.1.0 gpu is requested and can be installed;
+├─ abseil-cpp ==20200225.2 he1b5a44_2 does not exist (perhaps a ;
+├─ absl-py ==0.11.0 py38h06a4308_0 does not exist (perhaps a typ;
+├─ aiohttp ==3.6.3 py38h7b6447c_0 does not exist (perhaps a typo;
+├─ argon2-cffi ==20.1.0 py38h7b6447c_1 does not exist (perhaps a;
+├─ arrow-cpp ==2.0.0 py38ha9d6ab6_6_cpu does not exist (perhaps ;
+├─ aws-c-common ==0.4.59 he6710b0_0 does not exist (perhaps a ty;
+├─ aws-c-event-stream ==0.1.6 h84e28f3_5 does not exist (perhaps;
+├─ aws-checksums ==0.1.9 h2531618_2 does not exist (perhaps a ty;
+├─ aws-sdk-cpp ==1.8.70 h57dc084_1 does not exist (perhaps a typ;
+├─ brotli ==1.0.9 he6710b0_2 does not exist (perhaps a typo or a;
+├─ brotlipy ==0.7.0 py38h27cfd23_1003 does not exist (perhaps a ;
+├─ bzip2 ==1.0.8 h7b6447c_0 does not exist (perhaps a typo or a ;
+├─ c-ares ==1.17.1 h27cfd23_0 does not exist (perhaps a typo or ;
+├─ cairo ==1.16.0 h3fc0475_1005 does not exist (perhaps a typo o;
+├─ certifi ==2020.11.8 py38h06a4308_0 does not exist (perhaps a ;
+├─ cffi ==1.14.0 py38h2e261b9_0 does not exist (perhaps a typo o;
+├─ chardet ==3.0.4 py38h06a4308_1003 does not exist (perhaps a t;
+├─ cryptography ==3.2.1 py38h3c74f83_1 does not exist (perhaps a;
+├─ cudatoolkit ==10.1.243 h6bb024c_0 does not exist (perhaps a t;
+├─ cudnn ==7.6.5 ^cuda10.1_0$ is requested and can be installed;
+├─ cupti ==10.1.168 0 does not exist (perhaps a typo or a missin;
+├─ cytoolz ==0.11.0 py38h7b6447c_0 does not exist (perhaps a typ;
+├─ dbus ==1.13.18 hb2f20db_0 does not exist (perhaps a typo or a;
+├─ distributed ==2.30.1 py38h06a4308_0 does not exist (perhaps a;
+├─ expat ==2.2.10 he6710b0_2 does not exist (perhaps a typo or a;
+├─ ffmpeg ==4.3.1 h167e202_0 does not exist (perhaps a typo or a;
+├─ fontconfig ==2.13.1 h1056068_1002 does not exist (perhaps a t;
+├─ freetype ==2.10.4 h5ab3b9f_0 does not exist (perhaps a typo o;
+├─ gdk-pixbuf ==2.32.2 1 does not exist (perhaps a typo or a mis;
+├─ geos ==3.8.0 he6710b0_0 does not exist (perhaps a typo or a m;
+├─ gflags ==2.2.2 he6710b0_0 does not exist (perhaps a typo or a;
+├─ glib ==2.63.1 h5a9c865_0 does not exist (perhaps a typo or a ;
+├─ glog ==0.4.0 he6710b0_0 does not exist (perhaps a typo or a m;
+├─ gmp ==6.2.0 he1b5a44_2 does not exist (perhaps a typo or a mi;
+├─ gnutls ==3.6.13 h79a8f9a_0 does not exist (perhaps a typo or ;
+├─ gobject-introspection ==1.56.1 py38h9a62fa1_2 does not exist ;
+├─ graphite2 ==1.3.14 h23475e2_0 does not exist (perhaps a typo ;
+├─ grpc-cpp ==1.33.2 h1870a98_1 does not exist (perhaps a typo o;
+├─ grpcio ==1.31.0 py38hf8bcb03_0 does not exist (perhaps a typo;
+├─ gst-plugins-base ==1.14.5 h0935bb2_2 does not exist (perhaps ;
+├─ gstreamer ==1.14.5 h36ae1b5_2 does not exist (perhaps a typo ;
+├─ h5py ==2.10.0 py38hd6299e0_1 does not exist (perhaps a typo o;
+├─ harfbuzz ==2.7.2 hee91db6_0 does not exist (perhaps a typo or;
+├─ hdf5 ==1.10.6 hb1b8bf9_0 does not exist (perhaps a typo or a ;
+├─ icu ==67.1 he1b5a44_0 does not exist (perhaps a typo or a mis;
+├─ ipython ==7.19.0 py38hb070fc8_0 does not exist (perhaps a typ;
+├─ jasper ==1.900.1 hd497a04_4 does not exist (perhaps a typo or;
+├─ jpeg ==9d h516909a_0 does not exist (perhaps a typo or a miss;
+├─ jupyter_core ==4.7.0 py38h06a4308_0 does not exist (perhaps a;
+├─ keras-base ==2.4.3 py_0 is installable and it requires
+│  └─ tensorflow >=2.2 * with the potential options
+│     ├─ tensorflow [2.10.0|2.5.0|2.6.0|2.8.2|2.9.1] would requie
+│     │  └─ _tflow_select ==2.2.0 eigen, which conflicts with an;
+│     ├─ tensorflow [2.10.0|2.5.0|2.6.0|2.8.2|2.9.1] would requie
+│     │  └─ tensorflow-base [==2.10.0 gpu_py310h9761872_0|==2.10s
+│     │     └─ cudnn >=8.2,<9.0a0 *, which conflicts with any in;
+│     ├─ tensorflow [2.10.0|2.3.0|...|2.9.1] would require
+│     │  └─ _tflow_select ==2.3.0 mkl, which conflicts with any ;
+│     ├─ tensorflow [2.18.1|2.19.1] would require
+│     │  └─ tensorflow-base [==2.18.1 cpu_py310h1ab519a_0|==2.18s
+│     │     └─ keras >=3.5.0 * with the potential options
+│     │        ├─ keras [3.10.0|3.11.2], which can be installed;
+│     │        ├─ keras [3.11.2|3.12.1|3.13.2|3.14.0|3.6.0] woule
+│     │        │  └─ python_abi =3.13 *_cp313, which can be inst;
+│     │        ├─ keras [3.12.0|3.12.1|3.13.2|3.14.0|3.14.1], wh;
+│     │        ├─ keras 3.14.0 would require
+│     │        │  └─ python_abi =3.14 *_cp314, which can be inst;
+│     │        └─ keras [3.5.0|3.6.0|...|3.9.2], which can be in;
+│     ├─ tensorflow 2.20.0 would require
+│     │  └─ tensorflow-base [==2.20.0 cpu_py310h880c97b_2|==2.20s
+│     │     └─ keras >=3.10.0 * with the potential options
+│     │        ├─ keras [3.10.0|3.11.2], which can be installed;
+│     │        ├─ keras [3.11.2|3.12.1|3.13.2|3.14.0|3.6.0], whi;
+│     │        ├─ keras [3.12.0|3.12.1|3.13.2|3.14.0|3.14.1], wh;
+│     │        └─ keras 3.14.0, which can be installed (as previ;
+│     ├─ tensorflow [2.20.0|2.21.0] would require
+│     │  └─ python_abi =3.13 *_cp313, which can be installed;
+│     ├─ tensorflow 2.21.0 would require
+│     │  └─ tensorflow-base [==2.21.0 cpu_py310h1ede1fa_0|==2.21s
+│     │     └─ keras >=3.12.0 * with the potential options
+│     │        ├─ keras [3.11.2|3.12.1|3.13.2|3.14.0|3.6.0], whi;
+│     │        ├─ keras [3.12.0|3.12.1|3.13.2|3.14.0|3.14.1], wh;
+│     │        └─ keras 3.14.0, which can be installed (as previ;
+│     ├─ tensorflow 2.3.0 would require
+│     │  └─ _tflow_select ==2.3.0 eigen, which conflicts with an;
+│     └─ tensorflow 2.3.0 would require
+│        └─ _tflow_select ==2.3.0 gpu, which conflicts with any ;
+├─ keras ==2.4.3 0 is not installable because it conflicts with ;
+├─ kiwisolver ==1.3.0 py38h2531618_0 does not exist (perhaps a t;
+├─ krb5 ==1.17.1 h173b8e3_0 does not exist (perhaps a typo or a ;
+├─ lame ==3.100 h7b6447c_0 does not exist (perhaps a typo or a m;
+├─ lcms2 ==2.11 h396b838_0 does not exist (perhaps a typo or a m;
+├─ ld_impl_linux-64 ==2.33.1 h53a641e_7 does not exist (perhaps ;
+├─ libblas ==3.8.0 16_mkl is installable and it requires
+│  └─ mkl ==2020.1 216, which can be installed;
+├─ libclang ==10.0.1 default_hb85057a_2 does not exist (perhaps ;
+├─ libcurl ==7.71.1 hcdd3856_8 does not exist (perhaps a typo or;
+├─ libedit ==3.1.20191231 h14c3975_1 does not exist (perhaps a t;
+├─ libev ==4.33 h7b6447c_0 does not exist (perhaps a typo or a m;
+├─ libevent ==2.1.10 hcdb4288_2 does not exist (perhaps a typo o;
+├─ libffi ==3.2.1 hf484d3e_1007 does not exist (perhaps a typo o;
+├─ libgcc-ng ==9.1.0 hdf63c60_0 does not exist (perhaps a typo o;
+├─ libgcc ==7.2.0 h69d50b8_2 does not exist (perhaps a typo or a;
+├─ libgfortran-ng ==7.3.0 hdf63c60_0 does not exist (perhaps a t;
+├─ libiconv ==1.16 h516909a_0 does not exist (perhaps a typo or ;
+├─ libllvm10 ==10.0.1 hbcb73fb_5 does not exist (perhaps a typo ;
+├─ libnghttp2 ==1.41.0 hf8bcb03_2 does not exist (perhaps a typo;
+├─ libpng ==1.6.37 hbc83047_0 does not exist (perhaps a typo or ;
+├─ libpq ==12.3 h5513abc_0 does not exist (perhaps a typo or a m;
+├─ libprotobuf ==3.13.0.1 hd408876_0 does not exist (perhaps a t;
+├─ libsodium ==1.0.18 h7b6447c_0 does not exist (perhaps a typo ;
+├─ libssh2 ==1.9.0 h1ba5d50_1 does not exist (perhaps a typo or ;
+├─ libstdcxx-ng ==9.1.0 hdf63c60_0 does not exist (perhaps a typ;
+├─ libthrift ==0.13.0 h5aa387f_6 does not exist (perhaps a typo ;
+├─ libtiff ==4.1.0 h2733197_1 does not exist (perhaps a typo or ;
+├─ libutf8proc ==2.5.0 h14c3975_2 does not exist (perhaps a typo;
+├─ libuuid ==2.32.1 h14c3975_1000 does not exist (perhaps a typo;
+├─ libwebp-base ==1.1.0 h7b6447c_3 does not exist (perhaps a typ;
+├─ libxcb ==1.14 h7b6447c_0 does not exist (perhaps a typo or a ;
+├─ libxkbcommon ==0.10.0 he1b5a44_0 does not exist (perhaps a ty;
+├─ libxml2 ==2.9.10 h68273f3_2 does not exist (perhaps a typo or;
+├─ llvmlite ==0.34.0 py38h269e1b5_4 does not exist (perhaps a ty;
+├─ lz4-c ==1.9.2 heb0550a_3 does not exist (perhaps a typo or a ;
+├─ markdown ==3.3.3 py38h06a4308_0 does not exist (perhaps a typ;
+├─ markupsafe ==1.1.1 py38h7b6447c_0 does not exist (perhaps a t;
+├─ matplotlib-base ==3.3.0 py38h91b0d89_1 does not exist (perhap;
+├─ mistune ==0.8.4 py38h7b6447c_1000 does not exist (perhaps a t;
+├─ mkl-service ==2.3.0 py38he904b0f_0 does not exist (perhaps a ;
+├─ mkl ==2020.2 256 is not installable because it conflicts with;
+├─ mkl_fft ==1.2.0 py38h23d657b_0 does not exist (perhaps a typo;
+├─ mkl_random ==1.1.1 py38h0573a6f_0 does not exist (perhaps a t;
+├─ msgpack-python ==1.0.0 py38hfd86e86_1 does not exist (perhaps;
+├─ multidict ==4.7.6 py38h7b6447c_1 does not exist (perhaps a ty;
+├─ mysql-libs ==8.0.21 hf3661c5_2 does not exist (perhaps a typo;
+├─ ncurses ==6.2 he6710b0_1 does not exist (perhaps a typo or a ;
+├─ nettle ==3.4.1 hbb512f6_0 does not exist (perhaps a typo or a;
+├─ nspr ==4.29 he1b5a44_0 does not exist (perhaps a typo or a mi;
+├─ nss ==3.57 he751ad9_0 does not exist (perhaps a typo or a mis;
+├─ numba ==0.51.2 py38h0573a6f_1 does not exist (perhaps a typo ;
+├─ numpy-base ==1.19.2 py38hfa32c7d_0 does not exist (perhaps a ;
+├─ openh264 ==2.1.1 h8b12597_0 does not exist (perhaps a typo or;
+├─ openjpeg ==2.3.0 h05c96fa_1 does not exist (perhaps a typo or;
+├─ openslide ==3.4.1 2 does not exist (perhaps a typo or a missi;
+├─ openssl ==1.1.1h h7b6447c_0 does not exist (perhaps a typo or;
+├─ orc ==1.6.5 hd3605a7_0 does not exist (perhaps a typo or a mi;
+├─ pandas ==1.1.3 py38he6710b0_0 does not exist (perhaps a typo ;
+├─ pandoc ==2.11 hb0f4dca_0 does not exist (perhaps a typo or a ;
+├─ pandocfilters ==1.4.3 py38h06a4308_1 does not exist (perhaps ;
+├─ pcre ==8.44 he6710b0_0 does not exist (perhaps a typo or a mi;
+├─ pillow ==8.0.1 py38he98fc37_0 does not exist (perhaps a typo ;
+├─ pip ==20.2.4 py38h06a4308_0 does not exist (perhaps a typo or;
+├─ pixman ==0.38.0 h7b6447c_0 does not exist (perhaps a typo or ;
+├─ protobuf ==3.13.0.1 py38he6710b0_1 does not exist (perhaps a ;
+├─ psutil ==5.7.2 py38h7b6447c_0 does not exist (perhaps a typo ;
+├─ pyarrow ==2.0.0 py38h5703e5b_6_cpu does not exist (perhaps a ;
+├─ pyrsistent ==0.17.3 py38h7b6447c_0 does not exist (perhaps a ;
+├─ pysocks ==1.7.1 py38h06a4308_0 does not exist (perhaps a typo;
+├─ python-spams ==2.6.1 py38h55324e4_1204 does not exist (perhap;
+├─ python ==3.8.2 hcf32534_0 does not exist (perhaps a typo or a;
+├─ python_abi ==3.8 1_cp38 is not installable because it conflic;
+├─ pywavelets ==1.1.1 py38h7b6447c_2 does not exist (perhaps a t;
+├─ pyyaml ==5.3.1 py38h7b6447c_1 does not exist (perhaps a typo ;
+├─ pyzmq ==19.0.2 py38he6710b0_1 does not exist (perhaps a typo ;
+├─ qt ==5.12.9 h1f2b2cb_0 does not exist (perhaps a typo or a mi;
+├─ re2 ==2020.11.1 h58526e2_0 does not exist (perhaps a typo or ;
+├─ readline ==8.0 h7b6447c_0 does not exist (perhaps a typo or a;
+├─ regex ==2020.10.15 py38h7b6447c_0 does not exist (perhaps a t;
+├─ scikit-image ==0.17.2 py38hdf5156a_0 does not exist (perhaps ;
+├─ scikit-learn ==0.23.2 py38h0573a6f_0 does not exist (perhaps ;
+├─ scipy ==1.5.2 py38h0b6359f_0 does not exist (perhaps a typo o;
+├─ setuptools ==50.3.1 py38h06a4308_1 does not exist (perhaps a ;
+├─ shapely ==1.7.1 py38h98ec03d_0 does not exist (perhaps a typo;
+├─ six ==1.15.0 py38h06a4308_0 does not exist (perhaps a typo or;
+├─ snappy ==1.1.8 he6710b0_0 does not exist (perhaps a typo or a;
+├─ sqlite ==3.33.0 h62c20be_0 does not exist (perhaps a typo or ;
+├─ statsmodels ==0.12.0 py38h7b6447c_0 does not exist (perhaps a;
+├─ tbb ==2020.3 hfd86e86_0 does not exist (perhaps a typo or a m;
+├─ tensorflow-base ==2.2.0 gpu_py38h83e3d50_0 does not exist (pe;
+├─ tensorflow ==2.2.0 gpu_py38hb782248_0 does not exist (perhaps;
+├─ tifffile ==2020.10.1 py38hdd07704_2 does not exist (perhaps a;
+├─ tk ==8.6.10 hbc83047_0 does not exist (perhaps a typo or a mi;
+├─ tornado ==6.0.4 py38h7b6447c_1 does not exist (perhaps a typo;
+├─ typed-ast ==1.4.1 py38h7b6447c_0 does not exist (perhaps a ty;
+├─ wrapt ==1.12.1 py38h7b6447c_1 does not exist (perhaps a typo ;
+├─ x264 ==1!152.20180806 h7b6447c_0 does not exist (perhaps a ty;
+├─ xorg-kbproto ==1.0.7 h14c3975_1002 does not exist (perhaps a ;
+├─ xorg-libice ==1.0.10 h516909a_0 does not exist (perhaps a typ;
+├─ xorg-libsm ==1.2.3 h84519dc_1000 does not exist (perhaps a ty;
+├─ xorg-libx11 ==1.6.12 h516909a_0 does not exist (perhaps a typ;
+├─ xorg-libxext ==1.3.4 h516909a_0 does not exist (perhaps a typ;
+├─ xorg-libxrender ==0.9.10 h516909a_1002 does not exist (perhap;
+├─ xorg-renderproto ==0.11.1 h14c3975_1002 does not exist (perha;
+├─ xorg-xextproto ==7.3.0 h14c3975_1002 does not exist (perhaps ;
+├─ xorg-xproto ==7.0.31 h14c3975_1007 does not exist (perhaps a ;
+├─ xz ==5.2.5 h7b6447c_0 does not exist (perhaps a typo or a mis;
+├─ yaml ==0.2.5 h7b6447c_0 does not exist (perhaps a typo or a m;
+├─ yarl ==1.6.2 py38h7b6447c_0 does not exist (perhaps a typo or;
+├─ zeromq ==4.3.3 he6710b0_3 does not exist (perhaps a typo or a;
+├─ zlib ==1.2.11 h7b6447c_3 does not exist (perhaps a typo or a ;
+└─ zstd ==1.4.5 h9ceee32_0 does not exist (perhaps a typo or a m.
