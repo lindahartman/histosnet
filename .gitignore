@@ -2,6 +2,7 @@
 cache/
 models/*
 static/
+.venv/
 notebooks/.ipynb_checkpoints/
 notebooks/__pycache__/
 notebooks/cache/*
